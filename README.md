@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @FebrianS-putra
+- 👋 Hi, I’m Febrians. Putra
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FebrianS-putra&show_icons=true&theme=tokyonight)
 
 <!---
 FebrianS-putra/FebrianS-putra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
