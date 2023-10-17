@@ -1,7 +1,6 @@
 
 
 ## Hi, I'm Febrians. Putra
-- 👋 Hi, I’m Febrians. Putra
 
 <br>
 
